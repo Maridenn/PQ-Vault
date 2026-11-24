@@ -1,0 +1,6 @@
+# PQ-Vault Python Dependencies
+# Python 3.12+
+
+# Cryptographic operations:
+# AES-256-GCM, HKDF-SHA256, and ML-KEM-768 support
+cryptography>=48.0.0,<51.0

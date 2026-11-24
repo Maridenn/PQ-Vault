@@ -225,7 +225,7 @@ Possible extensions beyond the initial project scope include:
 - A graphical user interface.
 - Additional post-quantum cryptographic experimentation.
 
-## 13 — References
+## References
 
 1. NIST. (2024). *FIPS 203: Module-Lattice-Based Key-Encapsulation Mechanism Standard (ML-KEM).*  
    https://csrc.nist.gov/pubs/fips/203/final
